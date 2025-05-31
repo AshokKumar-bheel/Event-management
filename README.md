@@ -1,1 +1,2 @@
 # Event-management
+This project is a web-based Event Registration and Management System designed to streamline the process of organizing successful events. The system allows users to register for events, receive event updates, and communicate with organizers. Organizers can create events, manage participant lists, and send notifications or reminders via email or SMS. The goal is to improve coordination, ensure smooth communication, and increase the success rate of events through efficient registration and contact management.
